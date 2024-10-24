@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/078WYr6.png" width="400" alt="AnyNote Logo"></p>
+<p align="center"><img src="https://i.imgur.com/078WYr6.png" width="300" alt="AnyNote Logo"></p>
 
 ## Sobre o AnyNote
 
