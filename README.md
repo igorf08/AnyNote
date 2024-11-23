@@ -2,7 +2,7 @@
 
 ## Sobre o AnyNote
 
-AnyNote é uma aplicação web com ênfase na praticidade e simplicidade.
+AnyNote é uma aplicação web com ênfase na praticidade e simplicidade da escrita de notas.
 
 ## Tecnologias utilizadas
 
