@@ -8,4 +8,4 @@ AnyNote é uma aplicação web com ênfase na praticidade e simplicidade.
 
 - Laravel,
 - MySQL,
-- Pest (Testes unitários e End-to-end.)
+- Bootstrap
